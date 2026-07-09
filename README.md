@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Bakunna Julius Dylann Langmia 👋
 
-<!--
-**Dylan125-don/Dylan125-don** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student passionate about AI, Full-Stack Development, and building impactful software solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering Student at AIMT
+- 💻 Building Web Applications and AI-powered tools
+- 🤖 Interested in Artificial Intelligence and Developer Tools
+- 🌍 Based in Cameroon
+
+## 🛠 Technologies
+
+Python | JavaScript | React | Next.js | PHP | MySQL | AI Tools
+
+## Projects
+
+🏗 Construction Management System
+🤖 AI Trading Agent
+🍽 Restaurant POS System
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/bakunna-langmia-b43141336
+Email: juliusdylann@gmail.com
